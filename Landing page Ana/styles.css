@@ -1,0 +1,50 @@
+#logo img {
+    width: 150px;
+}
+
+#header img {
+    width: 150px;
+}
+
+section {
+  min-height: 100vh;
+}
+
+#header {
+    text-align: center;
+    background: linear-gradient(360deg, rgba(26, 122, 110, 0.9), #adb5b7);
+    color: rgb(255, 255, 255);
+}
+
+#identificacion {
+        text-align: center;
+    background: linear-gradient(180deg, rgba(26, 122, 110, 0.9), #adb5b7);
+    color: rgb(255, 255, 255);
+}
+
+#historia {
+    text-align: center;
+    background: linear-gradient(360deg, rgba(26, 122, 110, 0.9), #adb5b7);
+    color: rgb(255, 255, 255);
+}
+
+    .fotos img {
+    width: 150px;
+    } 
+
+#claridad {
+    text-align: center;
+    background: linear-gradient(180deg, rgba(26, 122, 110, 0.9), #adb5b7);
+    color: rgb(255, 255, 255);
+}
+
+#casos {
+    text-align: center;
+    background: linear-gradient(360deg, rgba(26, 122, 110, 0.9), #adb5b7);
+    color: rgb(255, 255, 255);
+}    
+
+
+    .exitos img {
+        width: 150px;
+    }
